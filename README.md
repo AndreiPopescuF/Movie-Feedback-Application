@@ -1,5 +1,5 @@
-The application contains a login form as you start it, after you have introduced your account, you can acces multiple movies within the database aswell as interogations made using SQL to retrieve key informations that a user will find useful such as:searching for the most recent movies,searching for a movie title introduced by the user,showing the movies classified by the movie type etc.
-The user is allowed to modify the database adding,deleting and updating movies aswell as rating them.
+#Movie Feedback Application
+This application is a movie database management system with a user-friendly interface. Upon login, users can access a variety of functionalities including browsing movies, performing SQL queries, and modifying the database. The database schema includes tables for users, movies, reviews, genres, directors, and a linking table for genres and movies.
 
 Tables and Relationships Description
 
