@@ -1,4 +1,4 @@
-#Movie Feedback Application
+# Movie Feedback Application
 This application is a movie database management system with a user-friendly interface. Upon login, users can access a variety of functionalities including browsing movies, performing SQL queries, and modifying the database. The database schema includes tables for users, movies, reviews, genres, directors, and a linking table for genres and movies.
 
 Tables and Relationships Description
